@@ -36,7 +36,6 @@ When I am not coding, you'll find me at my desk sketching stuff. Find out more a
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 ### 🧑🏻‍💻 Tools & Platform
 
@@ -53,13 +52,12 @@ When I am not coding, you'll find me at my desk sketching stuff. Find out more a
 ### 💻 Workspace
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishwa9011&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa9011&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akhtarfaizan20&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhtarfaizan20&hide_border=true&theme=radical" />
 </p>
 
 ## 🔝 Most used languages
