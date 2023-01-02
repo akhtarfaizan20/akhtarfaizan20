@@ -1,4 +1,4 @@
-<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="40%" alt="Coding" align="right"/>
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cmvvopef0prg9qswnbdpsp0m6z33t6zho9ve6ea9&rid=giphy.gif&ct=g" width="40%" alt="Coding" align="right"/>
 
 <p width="60%" align="left">
 	<h1>Hey 👋, I'm <a href="https://github.com/Vishwa9011/">Faizan Akhtar!</a></h1>
