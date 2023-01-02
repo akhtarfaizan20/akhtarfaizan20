@@ -62,13 +62,7 @@ When I am not coding, you'll find me at my desk sketching stuff. Find out more a
 
 ## 🔝 Most used languages
 
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa9011&layout=compact&hide_border=true&theme=radical" />
-
----
-
-<p align="center">
-   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhtarfaizan20&layout=compact&hide_border=true&theme=radical" />
 
 ---
 
