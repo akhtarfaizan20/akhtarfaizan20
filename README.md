@@ -9,8 +9,6 @@
 <p>
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
-When I am not coding, you'll find me at my desk sketching stuff. Find out more about me & feel free to connect with me here:
-
 </p>
 <p align="left">
 	<a href="https://www.linkedin.com/in/faizan-akhtar-884b32198/">
