@@ -61,7 +61,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 ## 🔝 Most used languages
 
 <p align="center">
-	<img width="45%" align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhtarfaizan20&layout=compact&hide_border=true&theme=radical" />
+	<img width="45%" align="center" alt="languages" src=https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akhtarfaizan20&theme=react&line_height=40&hide=css"" />
 </p>
 
 ---
